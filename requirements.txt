@@ -1,0 +1,6 @@
+streamlit
+requests
+greek-stemmer-pos
+python-dateutil
+pandas
+altair
